@@ -7,7 +7,7 @@
   list-style-type: none;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .footer__links {
     grid-template-columns: 1fr;
     row-gap: 32px;
