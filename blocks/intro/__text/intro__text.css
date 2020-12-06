@@ -6,28 +6,11 @@
   color: #ffffff;
   margin: 0;
   margin-bottom: 33px;
-  padding-left: 148px;
   max-width: 690px;
-}
-
-@media screen and (max-width: 1024px) {
-  .intro__text {
-    padding-left: 48px;
-  }
 }
 
 @media screen and (max-width: 768px) {
   .intro__text {
-    max-width: 720px;
-    padding-left: 24px;
-    padding-right: 16px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .intro__text {
-    max-width: 288px;
-    padding-left: 16px;
-    margin-bottom: 34px;
+    max-width: 100%;
   }
 }

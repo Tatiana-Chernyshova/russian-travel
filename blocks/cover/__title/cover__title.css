@@ -8,6 +8,7 @@
   font-size: 72px;
   line-height: 76px;
   color: #ffffff;
+  position: relative;
 }
 
 @media screen and (max-width: 767px) {
